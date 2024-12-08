@@ -1,4 +1,4 @@
-# docker-python-node
+# python-uv-node docker image
 Docker image with python, uv, and node.
 
 user is root, the home folder is `/root`.
